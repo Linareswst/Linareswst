@@ -6,6 +6,7 @@
 >
 > Me gusta ser autodidacta, tambien, estar al tanto de nuevas actualizaciones, features y versiones de las tecnologías.
 
+<br>
 
 #### 👨🏻‍💻 Tecnologías Frontend:
 
@@ -18,7 +19,6 @@
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 
-<br>
 
 #### 👨‍💻 Bases de datos:
 
