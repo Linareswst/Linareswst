@@ -6,7 +6,6 @@
 >
 > Me gusta ser autodidacta, tambien, estar al tanto de nuevas actualizaciones, features y versiones de las tecnologías.
 
-<br>
 
 #### 👨🏻‍💻 Tecnologías Frontend:
 
@@ -18,12 +17,15 @@
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+
 <br>
+
 #### 👨‍💻 Bases de datos:
 
 <a src="https://www.mysql.com/">![image](https://github.com/Linareswst/Linareswst/assets/99143383/97b71d60-706d-4fb6-a136-1dcd94dbfba9)</a>
 <a src="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">![image](https://github.com/Linareswst/Linareswst/assets/99143383/96d95621-0046-4807-9c15-c5beed46dbdf)</a>
 <a src="https://www.postgresql.org/">![image](https://github.com/Linareswst/Linareswst/assets/99143383/70e06a10-9daf-472c-abb0-7cf2f6e9eb75)</a>
+
 <br>
 
   <a href="https://www.linkedin.com/in/linareswst/">
